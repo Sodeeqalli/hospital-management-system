@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Sara Smith",
+        "Age": 20,
+        "Mobile": "07012345678",
+        "Address": "B1, 234, Cityville, State 54321",
+        "Doctor": "Not assigned",
+        "Symptoms": []
+    },
+    {
+        "Name": "Mike Jones",
+        "Age": 37,
+        "Mobile": "07555551234",
+        "Address": "L2, 2AB, Townsville, State 67890",
+        "Doctor": "Not assigned",
+        "Symptoms": []
+    },
+    {
+        "Name": "David Smith",
+        "Age": 15,
+        "Mobile": "07123456789",
+        "Address": "C1, ABC, Villageville, State 98765",
+        "Doctor": "Not assigned",
+        "Symptoms": []
+    }
+]
